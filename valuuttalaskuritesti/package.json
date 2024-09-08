@@ -1,0 +1,6 @@
+    // Oikein (esimerkki):
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "0.71.6",
+    "react-native-paper": "^5.3.3"
+  }
